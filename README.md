@@ -1,2 +1,2 @@
 
-[Click to PLAY!](https://medieval-zombie-auth.herokuapp.com/)  :european_castle:
+[Click to PLAY!](https://protected-sierra-25451.herokuapp.com/)  :european_castle:
